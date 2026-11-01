@@ -1,0 +1,18 @@
+==============================================
+        POMODORO QUEST - ÇALIŞMA RAPORU
+==============================================
+Tarih          : 01.11.2026 20:52
+Görev sayısı   : 3
+Toplam çalışma : 130 dk (2.2 saat)
+Toplam XP      : 180
+Unvan          : Çırak
+----------------------------------------------
+Kategorilere göre çalışma süresi:
+  Ders               25 dk
+  Programlama        55 dk
+  Sanat              50 dk
+  Level Tasarımı      0 dk
+  Ses                 0 dk
+----------------------------------------------
+Öneri: Sıradaki önerilen görev: Boss savaşı mekaniği (öncelik 1, kalan 2 pomodoro)
+==============================================
